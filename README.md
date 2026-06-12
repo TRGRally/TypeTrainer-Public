@@ -2,6 +2,18 @@
 
 This is a public archive of my Pokemon Go companion app that collates useful data from public APIs and presents it in one place. Originally built for a coursework, I continued developing it long after submission and used it whenever I was out raiding in pokemon go.
 
+# App screenshots
+
+![Home screen](https://raw.githubusercontent.com/TRGRally/TypeTrainer-Public/refs/heads/main/readme-assets/home-screen.png)
+
+![Events screen](https://raw.githubusercontent.com/TRGRally/TypeTrainer-Public/refs/heads/main/readme-assets/events-screen.png)
+
+![Pokemon screen](https://raw.githubusercontent.com/TRGRally/TypeTrainer-Public/refs/heads/main/readme-assets/pokemon-screen.png)
+
+![Search screen](https://raw.githubusercontent.com/TRGRally/TypeTrainer-Public/refs/heads/main/readme-assets/search-screen.png)
+
+
+
 ## Sources
 - Pokemon, types, moves, and raid data: https://github.com/pokemon-go-api/pokemon-go-api
 - Events data: https://github.com/bigfoott/ScrapedDuck
